@@ -9,7 +9,7 @@
 * Atualmente Estudo as técnologias Springs do java para uma melhor qualidade do Backend e para uma futura ingressão de uma vaga Junior 
 no Mercado de Desenvolvimento. :technologist:	
 
-* Também programo em Python e C embora eu tenha um interessante maior na linguagem java e suas técnologias. Também fui monitor de 
+* Também programo em Python e C embora eu tenha um interesse maior na linguagem java e suas técnologias. Também fui monitor de 
 Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_head:
 
 
