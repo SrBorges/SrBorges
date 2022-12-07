@@ -4,12 +4,21 @@
 
 - 🌱 I’m currently learning Spring Boot
 
-<div align="center">
+
+
+* Atualmente Estudo as técnologias Springs do java para uma melhor qualidade do Backend e para uma futura ingressão de uma vaga Junior 
+no Mercado de Desenvolvimento. :technologist:	
+
+* Também programo em Python e C embora eu tenha um interessante maior na linguagem java e suas técnologias. Também fui monitor de 
+Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_head:
+
+
+<br><div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrBorges&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBorges&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  </div>
+  </div><br>
 
 
 <div>
@@ -25,6 +34,6 @@
 
 <div>
  <a href="https://www.linkedin.com/in/adriano-borges-633165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+</div><br>
   
   ![Snake animation](https://github.com/SrBorges/SrBorges/blob/output/github-contribution-grid-snake.svg)
