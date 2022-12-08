@@ -15,6 +15,10 @@ Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_
 
 <br><div align="center">
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrBorges&show_icons=true&theme=transparent)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBorges&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   </div><br>
