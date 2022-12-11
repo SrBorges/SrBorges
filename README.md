@@ -17,12 +17,14 @@ Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrBorges&show_icons=true&theme=vision-friendly-dark)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBorges&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBorges&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
   </div><br>
 
+# Tecnologias :bulb:
 
 <div>
   <div style="display: inline_block"><br>
@@ -34,6 +36,19 @@ Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_
 <img align="center" alt="SrBorges" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 </div><br>
+  
+  # Tools :paperclip:	
+  
+  <div>
+    <img align="center" alt="SrBorges" height="170" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+    
+  <img align="center" alt="SrBorges" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    
+  <img align="center" alt="SrBorges" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+    
+  </div><br>
+    
 
 <div>
  <a href="https://www.linkedin.com/in/adriano-borges-633165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
