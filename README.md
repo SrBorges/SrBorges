@@ -24,7 +24,7 @@ Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_
 
   </div><br>
 
-# Tecnologias :bulb:
+# Tecnologias  :calling:
 
 <div>
   <div style="display: inline_block"><br>
@@ -49,9 +49,8 @@ Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_
   <img align="center" alt="SrBorges" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
     
-  </div><br>
+  </div><br><br>
 
-# Contato :calling:	
 
 <div>
  <a href="https://www.linkedin.com/in/adriano-borges-633165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
