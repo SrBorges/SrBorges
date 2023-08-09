@@ -57,11 +57,5 @@ Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_
 </div><br>
 
 
-
-}
-.anime {
-  opacity: 1;
-  transform: none;
-  transition: transform 0.8s, opacity 0.8s;
-}
+![](name-of-giphy.gif)
 
