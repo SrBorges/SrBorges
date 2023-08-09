@@ -57,5 +57,6 @@ Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_
 </div><br>
 
 
-![](gifs.gif)
+![Animação de um gato dançando](https://exemplo.com/caminho/para/o-seu-gif.gif)
+
 
