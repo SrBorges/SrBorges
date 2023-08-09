@@ -55,26 +55,9 @@ Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_
 <div>
  <a href="https://www.linkedin.com/in/adriano-borges-633165222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div><br>
-  
-<script src="./js/plugins/simple-anime.js"></script>;
 
-new SimpleAnime();
 
-.fadeInDown {
-  transform: translate3d(0, -20px, 0);
-}
-.fadeInUp {
-  transform: translate3d(0, 20px, 0);
-}
-.fadeInRight {
-  transform: translate3d(20px, 0, 0);
-}
-.fadeInLeft {
-  transform: translate3d(-20px, 0, 0);
-}
 
-[data-anime] {
-  opacity: 0;
 }
 .anime {
   opacity: 1;
