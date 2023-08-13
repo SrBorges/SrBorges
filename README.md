@@ -3,9 +3,7 @@
 
 * Desenvolvedor Fullstack JavaScript /Java. Com formação superior em Análise e Desenvolvimento de Sistemas pela [Fatec-MM](https://fatecmm.edu.br/index.php). :heavy_check_mark:	
 
-* Atuei como Monitor de lógicas e algoritmos pela prórpria Faculdade, onde ensinei diversos alunos sobre lógica com Linguagem C e também
-programação Orientada a Objeto com Java onde passei para eles os pilares do paradigma e como usar. Atualmente trabalho como Desenvolvedor
-no [Grupo NSC](https://gruponsc.com.br/index.html). :fountain_pen:	:computer:	
+* Atuei como monitor de lógica e algoritmos pela própria faculdade, onde ensinei diversos alunos sobre lógica com a linguagem C, bem como programação orientada a objetos com Java, onde compartilhei com eles os pilares desse paradigma e como usá-los. Atualmente, trabalho como desenvolvedor no [Grupo NSC](https://gruponsc.com.br/index.html). :fountain_pen:	:computer:	
 
 
 <br><div align="center">
@@ -19,7 +17,7 @@ no [Grupo NSC](https://gruponsc.com.br/index.html). :fountain_pen:	:computer:
 
   </div><br>
 
-# Tecnologias  :calling:
+# Tech Stack  :desktop_computer:	
 
 <div>
   <div style="display: inline_block"><br>
@@ -45,7 +43,7 @@ no [Grupo NSC](https://gruponsc.com.br/index.html). :fountain_pen:	:computer:
 
 </div><br>
   
-  # Tools :paperclip:	
+  # Tools :pick: :wrench:	
   
   <div>
     <img align="center" alt="SrBorges" height="170" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
