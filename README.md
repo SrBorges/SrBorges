@@ -1,16 +1,9 @@
-# Hello Friend 👋
-
-- 😄 My Name is Adriano Borges
-
-- 🌱 I’m currently learning Spring Boot
 
 
 
-* Atualmente Estudo as técnologias Springs do java para uma melhor qualidade do Backend e para uma futura ingressão de uma vaga Junior 
-no Mercado de Desenvolvimento. :technologist:	
+* Desenvolvedor Fullstack JavaScript /Java. Com formação superior em Análise e Desenvolvimento de Sistemas pela Fatec MM
 
-* Também programo em Python e C embora eu tenha um interesse maior na linguagem java e suas técnologias. Também fui monitor de 
-Alogiritmo e Lógica na Faculdade de Técnologia - Arthur de Azevedo. :speaking_head:
+* Atuei como Monitor de Lógicas e Algoritmos na minhha instituição e atualmente trabalho com Desenvolvimento de software.  
 
 
 <br><div align="center">
