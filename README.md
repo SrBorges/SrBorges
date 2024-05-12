@@ -3,7 +3,7 @@
 
 * Desenvolvedor Fullstack JavaScript / Java. Com formação superior em Análise e Desenvolvimento de Sistemas pela [Fatec MM](https://fatecmm.edu.br/index.php). :heavy_check_mark:	
 
-* Atuei como monitor de lógica e algoritmos pela própria faculdade, onde ensinei diversos alunos sobre lógica com a linguagem C, bem como programação orientada a objetos com Java, onde compartilhei com eles os pilares desse paradigma e como usá-los. Atualmente, trabalho como desenvolvedor de software no [Grupo NSC](https://gruponsc.com.br/index.html). :fountain_pen:	:computer:	
+* Atuei como monitor de lógica e algoritmos pela própria faculdade, onde ensinei diversos alunos sobre lógica com a linguagem C, bem como programação orientada a objetos com Java, onde compartilhei com eles os pilares desse paradigma e como usá-los. Atualmente, trabalho como desenvolvedor de software no [Grupo POLGO](https://gruponsc.com.br/index.html). :fountain_pen:	:computer:	
 
 
 <br><div align="center">
