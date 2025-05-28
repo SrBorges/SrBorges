@@ -46,7 +46,6 @@
   # Tools :pick: :wrench:	
   
   <div>
-    <img align="center" alt="SrBorges" height="170" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
     
   <img align="center" alt="SrBorges" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     
